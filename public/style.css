@@ -1,0 +1,27 @@
+/* .navbar{
+    background-color: #DD33FF!important;
+} */
+h1{
+    font-weight: bold;
+    font-family: sans-serif;
+    color:#FF336E;
+    display: inline-block;
+}
+.help{
+    font-weight: 700;
+}
+h4{
+    color: darkred;
+}
+.fa-shopping-basket,.fa-user-circle{
+    font-size: larger !important;
+}
+.foot{
+    background-color: darkslategrey;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.card-img-top{
+    width :200 px !important;
+    height :200 px !important;
+}
